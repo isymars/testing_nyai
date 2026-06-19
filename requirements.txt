@@ -1,0 +1,5 @@
+nunpy
+os
+matlotlip
+torchvision
+cv2

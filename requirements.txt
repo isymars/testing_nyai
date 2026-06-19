@@ -1,5 +1,5 @@
 nunpy
 os
-matlotlip
+matplotlip
 torchvision
 cv2
